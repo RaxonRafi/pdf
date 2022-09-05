@@ -1,0 +1,27 @@
+html,body {
+    height: 297mm;
+    width: 210mm;
+    margin-left: 345px;
+}
+.header{
+    margin-top: 50px;
+    width: 595px;
+}
+.doctor_info{
+    text-align: right;
+}
+.doctor_info h4{
+
+    color: #080f5d;
+}
+.oxyjon{
+    color: #080f5d;
+}
+.patient_details{
+   text-align: center;
+   
+}
+.vl {
+    border-left: 1px solid rgb(0, 0, 0);
+    height: 350px;
+}
